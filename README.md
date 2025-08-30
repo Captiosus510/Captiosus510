@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mahd 👋
 
-<!--
-**Captiosus510/Captiosus510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🤖 AI & Robotics Enthusiast  
+📍 Based in Canada | Open to research & internship opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- Passionate about **AI systems, robotics, and software engineering**  
+- Experienced in building **end-to-end ML pipelines**, robotics systems, and simulation environments  
+- Strong background in **C/C++, Python, and deep learning frameworks**  
+
+---
+
+## 🔹 Skills
+- **Languages:** C, C++, Python, JavaScript, SQL, Bash  
+- **Frameworks & Tools:** PyTorch, TensorFlow, Hugging Face, React, ROS2  
+- **Platforms:** Linux, Windows Server, Firebase, MongoDB  
+
+---
+
+## 🔹 Featured Projects
+- **[3D Rendering Engine](https://github.com/yourrepo)** – Implemented from scratch in C with **recursive raytracing, shadows, and anti-aliasing**  
+- **[Autonomous Vehicle Challenge](https://github.com/yourrepo)** – Arduino-powered **robot** for maze navigation, beam balancing, and RFID scanning  
+- **[Streamflow Forecasting](https://github.com/yourrepo)** – Time-series forecasting using **ANN & LSTM** architectures for hydrological data  
+
+---
+
+## 🔹 Leadership
+- **Vice President Finance – AIESEC (Nov 2024 – Present)**  
+  Managed **sponsorships, budgeting, and financial reporting** for events, conferences, and exchange programs  
+
+---
+
+## 🔹 Get in Touch
+📫 [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)  
