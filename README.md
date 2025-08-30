@@ -21,8 +21,8 @@
 
 ## 🔹 Featured Projects
 - **[3D Rendering Engine](https://github.com/yourrepo)** – Implemented from scratch in C with **recursive raytracing, shadows, and anti-aliasing**  
-- **[Autonomous Vehicle Challenge](https://github.com/yourrepo)** – Arduino-powered **robot** for maze navigation, beam balancing, and RFID scanning  
-- **[Streamflow Forecasting](https://github.com/yourrepo)** – Time-series forecasting using **ANN & LSTM** architectures for hydrological data  
+- **[Mutli_Robot Search System](https://github.com/Captiosus510/multi_robot_allocation)** – Arduino-powered **robot** for maze navigation, beam balancing, and RFID scanning  
+- **[Streamflow Forecasting](https://drive.google.com/drive/folders/1E5Bbr-i3Hhuaqn_t5miDBL-0v3V0v1HB?usp=sharing)** – Time-series forecasting using **ANN & LSTM** architectures for hydrological data  
 
 ---
 
